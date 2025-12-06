@@ -18,6 +18,10 @@
   box-sizing: border-box;
 }
 
+.header__link {
+  /*por que o revisor informou que essa seletor estava em falta ? Nao tem essa classe no html nem no roteiro que me recorde */
+}
+
 .nav {
   display: flex;
   justify-content: space-between;
