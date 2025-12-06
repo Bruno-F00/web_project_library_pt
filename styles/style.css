@@ -407,17 +407,15 @@
 }
 
 .footer__list-item {
-  /* Bruno - Estilos adicionados*/
-  display: flex;
-  align-items: center;
 }
 
 .footer__column-link {
   color: white;
   text-decoration: none;
   /* Bruno - Estilos adicionados*/
-  position: relative;
-  left: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 .footer__social-icon {
